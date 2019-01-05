@@ -52,11 +52,7 @@ class Login extends Component {
 
     return (
       <div>
-<<<<<<< HEAD
         <NavBar>在&nbsp;线&nbsp;聊&nbsp;天</NavBar>
-=======
-        <NavBar>硅&nbsp;谷&nbsp;直&nbsp;聘</NavBar>
->>>>>>> 35a2da748817657b43424cc400c47cd311d69f2c
         <Logo/>
         <WingBlank>
           <List>
