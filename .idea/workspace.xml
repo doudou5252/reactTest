@@ -54,7 +54,8 @@
     <handled-path value="$PROJECT_DIR$/my-app-service/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="384" />
+    <option name="x" value="337" />
+    <option name="y" value="510" />
     <option name="width" value="1400" />
     <option name="height" value="998" />
   </component>
