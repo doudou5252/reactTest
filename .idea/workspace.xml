@@ -54,8 +54,8 @@
     <handled-path value="$PROJECT_DIR$/my-app-service/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="337" />
-    <option name="y" value="510" />
+    <option name="x" value="296" />
+    <option name="y" value="93" />
     <option name="width" value="1400" />
     <option name="height" value="998" />
   </component>
@@ -86,6 +86,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.mongoOptions" />
   </component>
   <component name="RunDashboard">
